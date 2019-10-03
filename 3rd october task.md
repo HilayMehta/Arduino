@@ -5,7 +5,7 @@
         * DigitalPins
         * Analog pins
     + Breadboard
-        ![Breadboard Diagram](breadboard.jpg)
+        ![Breadboard Diagram](breadboard.png)
         * Connection Pattern
         
 2) <a href="#sensors">sensors</a>
