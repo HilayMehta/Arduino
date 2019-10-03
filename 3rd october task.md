@@ -14,7 +14,7 @@
     *  8 line following array sensor 
     
     
-3)  <a href="#Communication Protocal">Communication Protocal</a>
+3)  <a href="#Communication-Protocal">Communication Protocal</a>
     * SPI
     * I2C
     * UART
