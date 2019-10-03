@@ -5,7 +5,7 @@
         * DigitalPins
         * Analog pins
     + Breadboard
-        ![Breadboard Diagram](https://diygeeks.org/wp-content/uploads/2018/01/BreadBoard-Labelling-1012x1024.jpg)
+        
         * Connection Pattern
         
 2) <a href="#sensors">sensors</a>
@@ -27,6 +27,7 @@
     * DigitalPins
     * Analog pins
   + Breadboard
+    ![Breadboard Diagram](https://diygeeks.org/wp-content/uploads/2018/01/BreadBoard-Labelling-1012x1024.jpg)
     * Connection Pattern
    ## sensors  
    
