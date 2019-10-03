@@ -5,7 +5,7 @@
         * DigitalPins
         * Analog pins
     + Breadboard
-        ![Breadboard Diagram](breadboard.png)
+        ![Breadboard Diagram](C:\Users\HilayMehtaLocal\OneDrive\Hilay Files\Robomanipal\Task Phase\Markdown\Images)
         * Connection Pattern
         
 2) <a href="#sensors">sensors</a>
