@@ -7,7 +7,7 @@
     + Breadboard
         * Connection Pattern
         
-2) <a href="#sensor">sensors</a>
+2) <a href="#sensors">sensors</a>
     * Light dependent Resistor
     * Ultrasonic sensor
     * Infrared sensor
@@ -18,3 +18,25 @@
     * SPI
     * I2C
     * UART
+    
+    
+  ## basics
+  ***
+  * Arduino
+        * DigitalPins
+        * Analog pins
+    + Breadboard
+        * Connection Pattern
+   ## sensors  
+   ***
+   * Light dependent Resistor
+   * Ultrasonic sensor
+   * Infrared sensor
+   *  8 line following array sensor 
+   ## Communication Protocal
+   ***
+   * SPI
+   * I2C
+   * UART
+   
+  
