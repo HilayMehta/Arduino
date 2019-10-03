@@ -2,7 +2,7 @@
 
 1) Basics
     * Arduino
-        * Digital Pins
+        * https://www.Digital Pins.com
         * Analog pins
     + Breadboard
         * Connection Pattern
