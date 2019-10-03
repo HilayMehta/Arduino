@@ -23,10 +23,10 @@
   ## basics
   
   * Arduino
-        * DigitalPins
-        * Analog pins
+    * DigitalPins
+    * Analog pins
   + Breadboard
-        * Connection Pattern
+    * Connection Pattern
    ## sensors  
    
    * Light dependent Resistor
