@@ -7,14 +7,14 @@
     + Breadboard
         * Connection Pattern
         
-2) Sensors
+2) <a href="#sensor">sensors</a>
     * Light dependent Resistor
     * Ultrasonic sensor
     * Infrared sensor
     *  8 line following array sensor 
     
     
-3) Communication Protocal
+3)  <a href="Communication Protocal">Communication Protocal</a>
     * SPI
     * I2C
     * UART
