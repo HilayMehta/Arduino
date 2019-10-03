@@ -28,7 +28,7 @@
   #### breadboard
   + Breadboard
     ![Breadboard Diagram](https://diygeeks.org/wp-content/uploads/2018/01/BreadBoard-Labelling-1012x1024.jpg)
-    ![Breadboard Diagram](\Users\HilayMehtaLocal\OneDrive\Hilay Files\Robomanipal\Task Phase\Markdown\Images\breadboard.png)
+    ![Breadboard Diagram])
     * Connection Pattern
    ## sensors  
    
