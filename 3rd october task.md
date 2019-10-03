@@ -1,8 +1,8 @@
 # INDEX
 
-1) Basics
+1) <a href="#basics">basics</a>
     * Arduino
-        * https://www.DigitalPins.com
+        * DigitalPins
         * Analog pins
     + Breadboard
         * Connection Pattern
