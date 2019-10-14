@@ -1,0 +1,5 @@
+httparduinoguides.blogspot.com201206using-l239-motor-driver.html    //datasheet
+ 
+
+
+https://roboindia.com/tutorials/motor-driver-arduino/       // code
